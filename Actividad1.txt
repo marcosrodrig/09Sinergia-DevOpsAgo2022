@@ -1,7 +1,5 @@
 Curso: INTRODUCCIÓN A DEVOPS - Octavo Semestre SEDE ITRCS - Durazno
 
-
-
 Marcos Rodríguez - Referente
 Martina Núñez
 Carlos Píriz
